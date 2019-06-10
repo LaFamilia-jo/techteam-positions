@@ -65,7 +65,7 @@ The position is aimed to provide you with a real life experience shadowing a men
 
 Please follow the instructions below to apply for this position.
 
-1. Send your CV and any additional references (Github account, projects, etc.) to ** careers@lafamilia-jo.com ** with the subject line **Senior Full-stack Developer.**
+1. Send your CV and any additional references (Github account, projects, etc.) to **careers@lafamilia-jo.com** with the subject line **Senior Full-stack Developer.**
 2. We will call you to schedule a technical interview.
 3. We will interview you in person.
 
