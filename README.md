@@ -8,3 +8,4 @@ The **LaFamilia Development Team** is a vibrant team of individuals always seeki
 
 * [Senior DevOps Engineer](technical-positions/senior-devops-engineer.md)
 * [Senior Full-stack Developer](technical-positions/senior-fullstack-developer.md)
+* [Senior Software Quality Assurance Engineer](technical-positions/senior-qa-engineer.md)

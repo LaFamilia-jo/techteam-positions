@@ -1,6 +1,6 @@
 ## Position Overview
 
-The **La Familia development** team is looking for a **Senior DevOps Engineer** with a minimum 3+ year experience in DevOps practices and hands-on experience to assist with various DevOps and automation of tasks. We are looking for individuals who are eager to learn and are capable of independent and self-paced learning.
+The **LaFamilia Development Team** is looking for a **Senior DevOps Engineer** with a minimum 3+ year experience in DevOps practices and hands-on experience to assist with various DevOps and automation of tasks. We are looking for individuals who are eager to learn and are capable of independent and self-paced learning.
 
 The position is aimed to provide you with a real life experience shadowing a mentor and taking part of the responsibilities and duties of a full-stack developer. We are looking for self-motivated people who are eager to learn and expand their technological horizons.
 
